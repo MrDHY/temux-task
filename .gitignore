@@ -1,0 +1,10 @@
+*__pycache__*
+.idea/
+build/
+*.log
+*.log*
+dist/
+.DS_Store
+.idea
+*.db
+*venv
